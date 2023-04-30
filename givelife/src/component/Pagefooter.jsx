@@ -4,7 +4,7 @@ import logo from '../assets/all/logo.png'
 
 function Pagefooter() {
   return (
-    <div>
+    <div id='Contact'>
       <Associations/>
       <footer className="relative text-primary z-10 pt-20 lg:pt-[120px] text-white bg-[#22262F]">
         <div className="container">

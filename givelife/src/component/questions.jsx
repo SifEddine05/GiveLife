@@ -26,7 +26,7 @@ const Question = () => {
     },
   ])
   return (
-  <div className="container flex md:flex-row flex-col gap-10 justify-center items-center bg-[#EDF7F5] pt-6 pb-8">
+  <div className="container flex md:flex-row flex-col gap-10 justify-center items-center bg-[#EDF7F5] pt-6 pb-8" id='FAQ'>
     <div className="flex-1 flex flex-col  justify-center items-start ">
       <h3 className="md:text-[18px] text-[14px] font-semibold mb-4 lg:mb-8 ">Have any Question?</h3>
       <h1 className="md:text-[32px] text-[28px] font-bold mb-4 lg:mb-8">Frequently Asked Questions​</h1>

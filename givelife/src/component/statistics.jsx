@@ -7,7 +7,7 @@ import d from '../assets/landing/4.svg'
 function Statistics() {
   return (
 
-    <div className='container pt-10 pb-[150px] '>
+    <div className='container pt-10 pb-[150px] ' id='Statistics'>
 
       <h1 className='font-bold  text-gray-800 mt-2'>Our Fun Facts</h1>
       <h1 className='text-2xl font-bold '>WE Believe That We Can Save </h1>
