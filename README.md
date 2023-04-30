@@ -7,12 +7,12 @@ The goal of this landing page is to provide a clear and concise description of t
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Capture d'écran 2023-05-01 002650](https://user-images.githubusercontent.com/77940258/235380860-a9a592da-3beb-486a-821c-a89d95c1deb1.png)
 
 
 ## Demo
 
-link to demo :
+link to demo : https://give-life-00.netlify.app
 
 
 ## Installation
