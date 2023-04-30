@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.needImage {
+    background-image: url("./assets/all/Header.svg");
+    background-size: cover;
+    background-position: center;
+}
+
+html,body{
+  scroll-behavior: smooth;
+  color : black ;
+}
+*::-webkit-scrollbar{
+  display: none;
+}
+
+
+
+
+
+  .title1 {
+    @apply font-bold py-12 text-[36px];
+  }
+  
+
+  .title2 {
+    @apply font-semibold text-[24px];
+  }
+  
+
+  .noir-et-blanc {
+    filter: grayscale(100%);
+  }
