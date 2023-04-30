@@ -15,9 +15,9 @@ const Nav = () => {
           <div className="md:flex text-base md:text-lg lg:text-xl justify-around gap-16 p-2 font-semibold items-center hidden ">
                 <a href='/#Home' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Home</a>
                 <a href='/#About' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2'>About</a>
-                <a href='/#Causes' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Causes</a>
-                <a href='/#Pages' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Pages</a>
-                <a href='/#Blogs' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Blogs</a>
+                <a href='/#Statistics' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Statistics</a>
+                <a href='/#FAQ' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>FAQ</a>
+                <a href='/#Contact' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Contact Us</a>
           </div>
           <div className='w-[50px] '>
             <button className='bg-[#219D80] hover:bg-[#0a3a2f] text-white font-semibold p-2 rounded-lg md:text-[16px] text-[14px]'>ADD</button>
@@ -36,13 +36,13 @@ const Nav = () => {
                     <a href='#About' onClick={handlClick} className='hover:font-bold '>About</a>
                 </div>
                 <div className='w-full p-1 flex justify-center hover:bg-gray-400'>
-                    <a href='#Causes' onClick={handlClick} className='hover:font-bold '>Causes</a>
+                    <a href='#Statistics' onClick={handlClick} className='hover:font-bold '>Statistics</a>
                 </div>
                 <div className='w-full p-1 flex justify-center hover:bg-gray-400'>
-                    <a href='#Pages' onClick={handlClick} className='hover:font-bold '>Pages</a>
+                    <a href='#FAQ' onClick={handlClick} className='hover:font-bold '>FAQ</a>
                 </div>
                 <div className='w-full p-1 flex justify-center hover:bg-gray-400'>
-                    <a href='#Blogs' onClick={handlClick} className='hover:font-bold '>Blogs</a>
+                    <a href='#Contact' onClick={handlClick} className='hover:font-bold '>Contact Us</a>
                 </div>
             </div>
             
