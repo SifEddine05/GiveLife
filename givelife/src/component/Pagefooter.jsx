@@ -104,7 +104,7 @@ function Pagefooter() {
                   </a>
                 </div>
                 <p className="text-body-color text-base">
-                  &copy; {new Date().getFullYear()} GiveWell
+                  &copy; {new Date().getFullYear()} GiveLife
                 </p>
               </div>
             </div>

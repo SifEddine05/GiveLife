@@ -20,7 +20,7 @@ const Nav = () => {
                 <a href='/#Contact' className='hover:font-bold hover:bg-my-light-green hover:text-my-green rounded-lg px-6 py-2 '>Contact Us</a>
           </div>
           <div className='w-[50px] '>
-            <button className='bg-[#219D80] hover:bg-[#0a3a2f] text-white font-semibold p-2 rounded-lg md:text-[16px] text-[14px]'>ADD</button>
+            <button className='bg-[#219D80] hover:bg-[#0a3a2f] text-white font-semibold p-2 rounded-lg md:text-[16px] text-[14px]'>Join</button>
           </div>
           <button className='w-[45px] md:hidden block' onClick={() => setMenuActive(!menuActive)}>
             <img src={menu} alt='menu' className='w-full'/>
