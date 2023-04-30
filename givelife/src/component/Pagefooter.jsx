@@ -1,5 +1,6 @@
 import React from "react";
 import Associations from './Associations'
+import logo from '../assets/all/logo.png'
 
 function Pagefooter() {
   return (
@@ -10,7 +11,7 @@ function Pagefooter() {
           <div className="flex flex-wrap text-center">
             <div className="w-full px-4 sm:w-2/3 lg:w-3/12 mx-auto">
               <div className="mb-10 w-full flex flex-col justify-around items-start">
-                <img src="/assets/Logo.svg" alt="Logo" className="w-[110%]" />
+                <img src={logo} alt="Logo" className="w-[110%]" />
                 <span className="ml-8">10k</span>
                 <span className="ml-8">World wide Client</span>
                 <span className="ml-8">Already Connected</span>
