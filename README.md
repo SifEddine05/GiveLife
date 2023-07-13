@@ -6,8 +6,10 @@ This is a landing page project for a donation website that aims to raise funds f
 The goal of this landing page is to provide a clear and concise description of the charitable cause, explain how donations will be used, and make it easy for visitors to donate. By doing so, we hope to maximize donations and make a significant impact on the cause we are supporting.
 
 ## Screenshots
+![Capture d'écran 2023-07-14 000708](https://github.com/SifEddine05/GiveLife/assets/77940258/ec50ddeb-e943-42d2-b0f9-ea58548b169f)
 
-![Capture d'écran 2023-05-01 002650](https://user-images.githubusercontent.com/77940258/235380860-a9a592da-3beb-486a-821c-a89d95c1deb1.png)
+![Capture d'écran 2023-07-14 000728](https://github.com/SifEddine05/GiveLife/assets/77940258/f6ad0b39-cd47-4d8a-86de-88908f570a28)
+
 
 
 ## Demo
@@ -20,9 +22,9 @@ link to demo : https://give-life-00.netlify.app
 Install GiveLife with npm
 
 ```bash
-  cd givelife
+  cd Portfolio
   npm install 
-  npm run start
+  npm run dev
 ```
     
 ## Feedback
@@ -35,6 +37,6 @@ I'm a Mern stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , ReactJs , NodeJs , MongoDb ...
+Javascript, HTML, CSS , ReactJs , NodeJs , MongoDb  ...
 
 
